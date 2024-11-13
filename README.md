@@ -1,5 +1,5 @@
 # InterviewHelper
-# InterviewHelper
+
 
 **InterviewHelper** is a Python-based tool designed to help users prepare for interviews by automating transcription of spoken questions and sending them to ChatGPT for response suggestions. 
 
