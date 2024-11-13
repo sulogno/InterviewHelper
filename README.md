@@ -10,19 +10,18 @@
 
 ## Installation
 - Clone the repository:
-  ```bash
-  git clone https://github.com/yourusername/InterviewHelper.git](https://github.com/sulogno/InterviewHelper.git
+```bash
+git clone https://github.com/yourusername/InterviewHelper.git](https://github.com/sulogno/InterviewHelper.git
  ```
 
-Install required packages:
- ``` bash
+## Install required packages:
+```bash
 pip install pyautogui pyperclip keyboard SpeechRecognition
 ```
-
 ## Usage
 Make sure to adjust the CHATGPT_INPUT_COORDS in the script based on your screen resolution and ChatGPT input box position.
 Run the script:
-``` bash
+```bash
 python interview_helper.py
 ```
 Press Left Shift to begin audio transcription.
