@@ -11,7 +11,8 @@
 ## Installation
 - Clone the repository:
   ```bash
-git clone https://github.com/yourusername/InterviewHelper.git](https://github.com/sulogno/InterviewHelper.git
+  git clone https://github.com/yourusername/InterviewHelper.git](https://github.com/sulogno/InterviewHelper.git
+ ```
 
 Install required packages:
   ```bash
